@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Berita Kesehatan",
+  "author":"ABAH",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://www.abah.my.id",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
