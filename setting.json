@@ -1,8 +1,8 @@
 {
-  "name-web":"Info Kesehatan",
-  "author":"ABAH",
+  "name-web":"ZONAMIKA",
+  "author":"ZONA MIKA",
   "remove-comment-html":true,
-  "target":"https://ibuhamil.com/",
+  "target":"https://kbbi.web.id",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
